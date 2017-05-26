@@ -15,7 +15,7 @@ Write a WebGL program that displays a rotating pendulum. The pendulum bob is fre
 Use global variables for the point size of the anchor, the radius of the bob, the length of the wire, and the angular velocity of rotation in degrees per second.  Set the initial angular velocity to 45 and allow an interactive user to increase or decrease the value in multiples of 10 degrees per second with button presses.
 		
 ## Notes
-Discovered matrices in order to get one to be static and another rotating. I also added extra buttons with more control of the animation.
+Discovered matrices in order to get one to be static and another rotating. I also added extra buttons with more control of the animation. Also, this isn't actually a pendulum; that is just what the assignment was called.
 
 ## Demo
-The implementation can be viewed [here](http://manuelvargas.me/Rotating-Pendulum-WebGL/).
+The implementation can be viewed [here](https://mnl.space/Rotating-Pendulum-WebGL/).
